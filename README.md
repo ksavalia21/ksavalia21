@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Keyur 👋
 
-<!--
-**ksavalia21/ksavalia21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring **iOS Developer** dedicated to building sleek, high-performance mobile applications. Currently, I'm focusing on mastering **UIKit** and **Swift** by building apps entirely **programmatically** (no Storyboards allowed!).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+
+* **Language:** Swift
+* **Frameworks:** UIKit, Foundation
+* **Architecture:** MVC, MVVM
+* **Concepts:** Memory Management (ARC), Concurrency, App Lifecycle
+* **Tools:** Xcode, Git, GitHub Actions
+
+---
+
+### 🚀 What I'm Working On
+
+- 📱 Transitioning from Storyboards to purely programmatic UI.
+- 🏗️ Implementing advanced architectural patterns in Swift projects.
+- ⏱️ Exploring complex UI challenges like timer-based updates and async operations.
+
+---
+
+### 📊 My GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksavalia21&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksavalia21&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keyursavalia)
